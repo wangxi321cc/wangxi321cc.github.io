@@ -8,5 +8,10 @@
 {"bid":"com.dcsc.cs",
  "auditState":0,
  "url":"http://154.223.65.241:9966/",
- "version":"1.1.1"}
+ "version":"1.1.1"},
+
+{"bid":"com.byzj.xs",
+ "auditState":1,
+ "url":"http://154.223.65.241:9966/",
+ "version":"1.0.1"}
  ]
